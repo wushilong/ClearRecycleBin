@@ -1,0 +1,14 @@
+{
+    "ID": "C58AC64313BF4B5A909E581693A7E738",
+    "Disabled": false,
+    "IsGlobal": false,
+    "ActionKeyword": "erb!",
+    "Name": "ClearRecycleBin",
+    "Author": "Codemonk",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/wushilong/ClearRecycleBin",
+    "ExecuteFileName": "ClearRecycleBin.dll",
+    "IcoPathDark": "Images/ClearRecycleBin.dark.png",
+    "IcoPathLight": "Images/ClearRecycleBin.light.png"
+}
